@@ -4,5 +4,12 @@
     <string name="app_name">Pong</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="highscore">Highscore</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="again">Play again !</string>
+    <string name="sms">Send sms</string>
+    <string name="share">Share</string>
+
 
 </resources>
